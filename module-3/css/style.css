@@ -1,4 +1,7 @@
 
+body{
+	background-color: #8090d9;
+}
 .container-fluid{
 	margin: 0;
 	padding: 0;
@@ -44,7 +47,7 @@
 .main-title{
   margin-bottom: 15px;
   text-align: center;
-  color: #FF69B4;
+  color: #000000;
   font-size: 50px;
   font-family: "Comic Sans MS", cursive, sans-serif;
   font-weight: bold;
