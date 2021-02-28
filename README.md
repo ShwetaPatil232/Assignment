@@ -6,7 +6,7 @@ Course Link: https://www.coursera.org/learn/html-css-javascript-for-web-develope
 
 
 
-##Module #2 Coding Assignment Solution
+## Module 2 Coding Assignment Solution
 
 * Assignment Link : https://github.com/jhu-ep-coursera/fullstack-course4/blob/master/assignments/assignment2/Assignment-2.md
 
@@ -16,17 +16,17 @@ Course Link: https://www.coursera.org/learn/html-css-javascript-for-web-develope
 
 
 
-##Module #3 Coding Assignment Solution
+## Module 3 Coding Assignment Solution
 
-**Assignment Link : https://github.com/jhu-ep-coursera/fullstack-course4/blob/master/assignments/assignment3/Assignment-3.md
+* Assignment Link : https://github.com/jhu-ep-coursera/fullstack-course4/blob/master/assignments/assignment3/Assignment-3.md
 
-**Source Code Link : https://github.com/ShwetaPatil232/Assignment/tree/main/module-3
+* Source Code Link : https://github.com/ShwetaPatil232/Assignment/tree/main/module-3
 
-**Hosted WebPage Link : https://shwetapatil232.github.io/Assignment/module-3/index.html
+* Hosted WebPage Link : https://shwetapatil232.github.io/Assignment/module-3/index.html
 
 
 
-##Module #4 Coding Assignment Solution
+## Module 4 Coding Assignment Solution
 * Assignment Link : https://github.com/jhu-ep-coursera/fullstack-course4/blob/master/assignments/assignment4/Assignment-4.md
 
 * Source Code Link : https://github.com/ShwetaPatil232/Assignment/tree/main/module-4
@@ -35,7 +35,7 @@ Course Link: https://www.coursera.org/learn/html-css-javascript-for-web-develope
 
 
 
-##Module #5 Coding Assignment Solution
+## Module 5 Coding Assignment Solution
 * Assignment Link : https://github.com/jhu-ep-coursera/fullstack-course4/blob/master/assignments/assignment5/Assignment-5.md
 
 * Source Code Link : https://github.com/ShwetaPatil232/Assignment/tree/main/module-5
